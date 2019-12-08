@@ -10,3 +10,5 @@ The example classes appear in the following order in the above mentioned blog po
 * Bind
 * Unit
 * Lift
+
+Note that `bind` is also called `flatMap`
