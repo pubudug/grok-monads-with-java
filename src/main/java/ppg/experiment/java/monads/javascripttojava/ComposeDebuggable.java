@@ -1,11 +1,9 @@
-package com.mycompany.app;
+package ppg.experiment.java.monads.javascripttojava;
 
 
 import org.javatuples.Pair;
 
 import java.util.function.BiFunction;
-import java.util.function.DoubleUnaryOperator;
-import java.util.function.Function;
 
 public class ComposeDebuggable {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.mycompany.app;
+package ppg.experiment.java.monads.javascripttojava;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
