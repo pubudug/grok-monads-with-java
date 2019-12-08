@@ -20,7 +20,7 @@ public class ResultWithLogMonad<T> {
     }
 
     /**
-     * This is the same as bind function in the javascripttojava package.
+     * This serves the same purpose as the bind function in the javascripttojava package.
      * The function passed as a parameter is of type T to ResultWithLog<T>
      * But flatMap goes from ResultWithLog<T> to ResultWithLog<T>
      */
