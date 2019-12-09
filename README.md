@@ -31,3 +31,13 @@ The code is available in the `oologgingmonadimproved` package.
 Step4
 --
 Added `listmonad` package.
+
+Step5
+--
+But why are Monads needed? 
+* From the above mentioned tutorial about the logging monad, 
+"If we want to capture this logging information, it must form part of the return value."
+So it's a way to capture side effects in functional programming. It seems Failure Monad, Error Monad, Reader Monad
+and State Monad from https://stackoverflow.com/a/10245311/672841 all fall under this use case.
+
+* Easy composition of functions. List Monad falls under this use case
